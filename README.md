@@ -1,16 +1,13 @@
-## Hi there 👋
+Infrastructure developer & SRE 3+ year.
 
-<!--
-**rustnomicon/rustnomicon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently work at **Sberbank**.
 
-Here are some ideas to get you started:
+**Tech Stack:**
+Hadoop, K8S, SQL-like databases & NoSQL-like databases, Docker, Podman, LLM-s, K6, Grafana, Zabbix and more.
+**Languages:**
+Rust, Go, Python, Bash
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Since I like to work from Crimea, half of the functionality is disabled for me -
+[mirror](https://gitverse.ru/rustnomicon)
+
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustnomicon&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="rustnomicon" />
