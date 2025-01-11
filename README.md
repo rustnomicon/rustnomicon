@@ -10,4 +10,3 @@ Rust, Go, Python, Bash
 Since I like to work from Crimea, half of the functionality is disabled for me -
 [mirror](https://gitverse.ru/rustnomicon)
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rustnomicon&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="rustnomicon" />
