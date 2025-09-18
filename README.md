@@ -1,8 +1,6 @@
 <div align="center">
     <div style="display: inline-block; margin-right: 20px;" align="left">
         <p>Sup Internet.<br>
-        I am an Performance Engineer.<br>
-        I design and run load testing infrastructure and write custom tools in Rust and Go to help teams understand system limits before users do.
 </p>
     </div>
     <img width="150" height="150" src="corro.svg" style="vertical-align: middle;" align="right" />
